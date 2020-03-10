@@ -1,6 +1,6 @@
-const num1 = Number(prompt("Please enter a number"));
+const num1 = prompt("Please enter a number")
 
-const doubled = num1 * 2;
+const doubled = num1 * 2
 
 const output = document.getElementById('ouput')
 
